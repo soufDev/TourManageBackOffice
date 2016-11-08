@@ -1,0 +1,35 @@
+.home_bloc{
+    height: 150px;
+    border: solid 1px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin: 5px;
+    padding: 35px;
+    text-align: center;
+    font-size: 2.5rem;
+}
+.home_bloc:hover{
+    background-color: #5A738E;
+    color: #F7F7F7;
+}
+.parent_home_bloc{
+    width: 80%;
+    float: none;
+    margin-left: auto;
+}
+
+.right-col{
+    align-items: center;
+    background: rgb(224, 224, 224);
+}
+
+
+.fa-file-text-o, .fa-cab, .fa-truck, .fa-shopping-cart, .fa-cogs, .fa-users{
+
+    font-size: 3.0em;
+}
+
+
+.header-page{
+    text-align: center;
+}
